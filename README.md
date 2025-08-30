@@ -6,3 +6,4 @@ This folder contains a collection of beginner-to-intermediate Python projects th
 2. ATM Simulator 💳 – Deposit, withdraw, and check balance using conditionals and loops.
 3. SQL Connectivity - It shows how we connect SQL Workbench to Python.
 4. Rental Bike System 🚲 – Borrow/return bikes, track stock, and calculate rental charges using loops and conditionals.
+5. Student Management System (OOPs Project) - A simple Python project using Object-Oriented Programming (OOPs) to manage student data.
