@@ -4,7 +4,7 @@ conn =pymysql.connect(
 
     host= 'localhost',
     user ='root',
-    password='iLikethisOne#05',
+    password='#pass of SQL Workbench',
     database='myclass'
 
 )
@@ -22,6 +22,7 @@ for row in rows:
 
 cursor.close()
 conn.close()
+
 
 
 
